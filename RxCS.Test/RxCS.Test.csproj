@@ -20,4 +20,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\RxCS\RxCS.csproj" />
+  </ItemGroup>
+
 </Project>
